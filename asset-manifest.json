@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/https//:https://safarawolaz.github.io/book-club/static/css/main.9233feb2.chunk.css",
+    "main.js": "/https//:https://safarawolaz.github.io/book-club/static/js/main.ada5c429.chunk.js",
+    "main.js.map": "/https//:https://safarawolaz.github.io/book-club/static/js/main.ada5c429.chunk.js.map",
+    "runtime-main.js": "/https//:https://safarawolaz.github.io/book-club/static/js/runtime-main.67f40c2d.js",
+    "runtime-main.js.map": "/https//:https://safarawolaz.github.io/book-club/static/js/runtime-main.67f40c2d.js.map",
+    "static/js/2.7b02aeff.chunk.js": "/https//:https://safarawolaz.github.io/book-club/static/js/2.7b02aeff.chunk.js",
+    "static/js/2.7b02aeff.chunk.js.map": "/https//:https://safarawolaz.github.io/book-club/static/js/2.7b02aeff.chunk.js.map",
+    "index.html": "/https//:https://safarawolaz.github.io/book-club/index.html",
+    "precache-manifest.ac95e8966d4156a656ec28f21e2254b3.js": "/https//:https://safarawolaz.github.io/book-club/precache-manifest.ac95e8966d4156a656ec28f21e2254b3.js",
+    "service-worker.js": "/https//:https://safarawolaz.github.io/book-club/service-worker.js",
+    "static/css/main.9233feb2.chunk.css.map": "/https//:https://safarawolaz.github.io/book-club/static/css/main.9233feb2.chunk.css.map",
+    "static/js/2.7b02aeff.chunk.js.LICENSE.txt": "/https//:https://safarawolaz.github.io/book-club/static/js/2.7b02aeff.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/1.175a5e0d.jpg",
+    "static/media/10.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/10.2a5248ef.jpg",
+    "static/media/11.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/11.81a83bea.jpg",
+    "static/media/12.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/12.e58e5433.jpg",
+    "static/media/13.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/13.8cb4436f.jpg",
+    "static/media/14.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/14.aa8eb0ec.jpg",
+    "static/media/15.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/15.ec923a85.jpg",
+    "static/media/2.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/2.0f237c94.jpg",
+    "static/media/3.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/3.57291dfd.jpg",
+    "static/media/4.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/4.cf61e200.jpg",
+    "static/media/5.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/5.97933b88.jpg",
+    "static/media/6.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/6.bc9cb629.jpg",
+    "static/media/7.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/7.2c1f8f66.jpg",
+    "static/media/8.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/8.96817dbf.jpg",
+    "static/media/9.jpg": "/https//:https://safarawolaz.github.io/book-club/static/media/9.d1b377f6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.67f40c2d.js",
+    "static/js/2.7b02aeff.chunk.js",
+    "static/css/main.9233feb2.chunk.css",
+    "static/js/main.ada5c429.chunk.js"
+  ]
+}
